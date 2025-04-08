@@ -1,7 +1,0 @@
-Auth service
-=============================
-
-.. automodule:: app.services.auth_service
-   :members:
-   :undoc-members:
-   :show-inheritance:

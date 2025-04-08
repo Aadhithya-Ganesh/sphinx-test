@@ -1,7 +1,0 @@
-Auth Controller
-=====================
-
-.. automodule:: app.controllers.auth_controller
-   :members:
-   :undoc-members:
-   :show-inheritance:

@@ -1,8 +1,0 @@
-Controllers
-=============================
-
-.. toctree::
-   :maxdepth: 2
-
-   auth_controller
-   data_controller
